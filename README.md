@@ -71,5 +71,3 @@ ggplot(data, aes(x = Diet, fill = Period)) +
 ![Dinosaur Diets Across Periods](images/diet_by_period_plot.png)
 
 > **Check the `images/` folder** for the saved visualizations.
-
-💡 **Made with R and 🦖 dinosaurs!**
